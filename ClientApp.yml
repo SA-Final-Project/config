@@ -1,2 +1,1 @@
-welcome:
-  message: "Hello from gitlab profile"
+welcome.message = "Hello from gitlab profile"
