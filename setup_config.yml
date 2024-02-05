@@ -22,6 +22,6 @@ logging:
 eureka:
   client:
      serviceUrl:
-        defaultZone: eureka-server
+        defaultZone: http://eureka-server:8761/eureka
 
 
